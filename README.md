@@ -54,10 +54,3 @@ Sinta-se à vontade para contribuir com melhorias neste projeto. Você pode repo
 ## Licença
 
 Este projeto é licenciado sob a [Sua Licença]. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-**Nota:** Personalize este README de acordo com o seu exercício específico e os resultados da análise de regressão linear. Certifique-se de fornecer informações claras e úteis para outros usuários que visitem o seu repositório no GitHub.
-```
-
-Neste README mais detalhado, você pode incluir informações específicas sobre o conjunto de dados, os resultados da análise de regressão linear e as instruções para executar a análise. Certifique-se de substituir "seuusuario" e "seurepositorio" pelos valores reais do seu usuário e repositório no GitHub, bem como a "Sua Licença" pela licença que você deseja atribuir ao seu projeto.
